@@ -3,6 +3,8 @@
   designed to be modern, clean, and showcase your skills beautifully.
 -->
 
+[![](https://komarev.com/ghpvc/?username=udaykamboj&style=for-the-badge)](https://github.com/udaykamboj)
+
 # 👋 Hi, I'm Uday Kamboj
 
 ### A passionate Software Developer & Designer crafting modern web & mobile experiences.
@@ -11,11 +13,9 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently mastering **React**, **Node.js**, and **Machine Learning**  
-- 🎨 Exploring **UI/UX Design** with **Figma** & **Adobe XD**  
-- 💼 Experienced in full-stack development, cloud services, and CI/CD pipelines  
-- 📫 Reach me at: [email@example.com](mailto:email@example.com)  
-- ⚡ Fun fact: I love hiking, photography, and chess
+- 🔭 I’m currently working on various projects that showcase my skills in AI, ML, data science and web development.  
+- 🌱 I’m currently learning advanced concepts in machine learning and cloud computing  
+- 📫 Reach me at: [contactudaykamboj@gmail.com](mailto:contactudaykamboj@gmail.com)
 
 ---
 
