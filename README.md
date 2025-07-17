@@ -40,9 +40,10 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=udaykamboj&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykamboj&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=udaykamboj&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykamboj&layout=compact&theme=default" alt="Top Languages" />
 </p>
+
 
 ---
 
