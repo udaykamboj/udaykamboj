@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on various projects that showcase my skills in AI, ML, data science and web development.  
 - 🌱 I’m currently learning advanced concepts in machine learning and cloud computing  
-- 📫 Reach me at: [contactudaykamboj@gmail.com](mailto:contactudaykamboj@gmail.com)
+- 📫 Reach me at: [contactudaykamboj@gmail.com](mailto:udaykamboj2010@gmail.com)
 
 ---
 
